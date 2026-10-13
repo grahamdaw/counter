@@ -13,9 +13,9 @@ It has no Dock icon and no window, only the menu bar item.
 - macOS on a Mac (it uses AppKit)
 - The Xcode Command Line Tools, which provide `swiftc`:
 
-  ```sh
-  xcode-select --install
-  ```
+```sh
+xcode-select --install
+```
 
 ## Build
 
